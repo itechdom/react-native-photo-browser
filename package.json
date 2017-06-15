@@ -25,6 +25,7 @@
   "author": "Halil Bilir <hbilir@gmail.com>",
   "homepage": "https://github.com/halilb/react-native-photo-browser#readme",
   "dependencies": {
+    "react-native-infinite-scroll-view": "^0.4.3",
     "react-native-progress": "^3.2.0"
   }
 }
